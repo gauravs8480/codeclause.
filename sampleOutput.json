@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Fantasy Football Week 16 Quarterback rankings: Gardner Minshew lands in the top-12 in a tough week for QB - CBS Sports",
+            "description": "How the QB position looks heading into Fantasy playoff Week 16",
+            "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-16-quarterback-rankings-gardner-minshew-lands-in-the-top-12-in-a-tough-week-for-qb/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/20/a606004f-87ae-4fbe-9a8d-e397de7e0068/thumbnail/1200x675/e1f7cf22e6ac847dd08598e4929c2908/gardner-minshew-1400-us.jpg",
+            "publishedAt": "2022-12-22T18:30:00Z",
+            "content": "Before we get to the rankings for Week 15, let's tackle some of the biggest questions Fantasy players are facing at quarterback heading into the Fantasy semifinals, beginning with one of the biggest … [+4396 chars]"
+        }
+    ]
+}
